@@ -17,3 +17,9 @@ def assign_rooms(array)
   end
   messages
 end
+
+def printer(array)
+  batch_badge_creator(array).each do |list|
+    
+  end
+end
