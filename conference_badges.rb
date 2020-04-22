@@ -10,6 +10,7 @@ end
 messages
 end
 
-def assign_rooms(array,number)
-
+def assign_rooms(array)
+  messages = []
+  array.each_with_index do |name,index|
 end
