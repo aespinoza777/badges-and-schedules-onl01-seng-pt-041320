@@ -7,7 +7,7 @@ messages = []
 array.each do |name|
 messages << "Hello, my name is #{name}."
 end
-
+messages
 end
 
 def assign_rooms(array,number)
